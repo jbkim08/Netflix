@@ -7,3 +7,4 @@
 - Flex 사용
 - 반응형 👍
 - 깃허브 페이지 배포
+- [사이트접속](https://jbkim08.github.io/Netflix/)
